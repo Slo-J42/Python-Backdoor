@@ -1,5 +1,3 @@
-# =================== README.md ===================
-
 # 🛠️ Python Reverse Shell Backdoor (Ethical Pentest Project)
 
 This project is a Python-based **reverse shell backdoor** designed for ethical hacking labs, penetration testing simulations, and red team learning environments. It allows secure remote access, file operations, and keylogging functionalities.
